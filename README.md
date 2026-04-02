@@ -43,8 +43,7 @@ git --version
 | 바인드 마운트 반영 확인 | 완료 | [13. 바인드 마운트 검증](#13-바인드-마운트-검증) |
 | Docker 볼륨 영속성 | 완료 | [14. Docker 볼륨 영속성 검증](#14-docker-볼륨-영속성-검증) |
 | Git 원격 저장소 연결 | 완료 | [15. Git / GitHub 정리](#15-git--github-정리) |
-| Git 사용자 정보 / 기본 브랜치 설정 | 완료 | [16-1. Git 사용자 정보 / 기본 브랜치 설정](#16-1-git-사용자-정보--기본-브랜치-
-  설정) |
+| Git 사용자 정보 / 기본 브랜치 설정 | 완료 | [16. Git 사용자 정보 기본 브랜치 설정](#16-git-사용자-정보-기본-브랜치-설정) |
 | VSCode GitHub 로그인 증거 | 완료 | [screenshot 폴더](./screenshot) |
 
 ## 4. 저장소 구조
@@ -563,9 +562,7 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 ```
 
-## 16. 이외
-
-### 16-1. Git 사용자 정보 / 기본 브랜치 설정
+## 16. Git 사용자 정보 기본 브랜치 설정
 
 ```bash
 $ git config --global --list
