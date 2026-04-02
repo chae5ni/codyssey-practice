@@ -49,14 +49,18 @@ git --version
 ## 4. 저장소 구조
 
 ```text
-codyssey-practice/
-├── Dockerfile
-├── README.md
-├── index.html
-├── terminal-lab/
-│   └── index-renamed.html
-├── test-dir/
-└── test-file.txt
+  codyssey-practice/
+  ├── docs/
+  │   └── screenshots/
+  ├── screenshot/
+  ├── terminal-lab/
+  │   └── index-renamed.html
+  ├── test-dir/
+  ├── .gitignore
+  ├── Dockerfile
+  ├── README.md
+  ├── index.html
+  └── test-file.txt
 ```
 
 ## 5. 터미널 조작 로그
