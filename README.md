@@ -81,3 +81,25 @@ docker run -p 8080:80 my-webserver
 # 브라우저 접속
 # http://localhost:8080
 ```
+
+## 6. 학습 내용
+
+- ✅ OrbStack 설치 및 Docker 호환성
+- ✅ Dockerfile 작성
+- ✅ Docker 이미지 빌드
+- ✅ 컨테이너 실행 및 포트 매핑
+- ✅ 바인드 마운트 실습
+- ✅ 한글 인코딩 처리
+- ✅ Git 커밋 및 GitHub 푸시
+
+## 7. 완료 체크리스트
+
+- [x] OrbStack 설치
+- [x] GitHub 저장소 생성
+- [x] Dockerfile 작성
+- [x] Docker 이미지 빌드
+- [x] 컨테이너 실행
+- [x] 한글 인코딩 해결
+- [x] Git 커밋
+- [x] GitHub 푸시
+- [x] README.md 작성
