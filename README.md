@@ -1,4 +1,4 @@
-# Codyssey Practice: Docker Web Server Workstation
+# Codyssey Practice
 
 ## 1. 프로젝트 개요
 
@@ -43,8 +43,8 @@ git --version
 | 바인드 마운트 반영 확인 | 완료 | [13. 바인드 마운트 검증](#13-바인드-마운트-검증) |
 | Docker 볼륨 영속성 | 완료 | [14. Docker 볼륨 영속성 검증](#14-docker-볼륨-영속성-검증) |
 | Git 원격 저장소 연결 | 완료 | [15. Git / GitHub 정리](#15-git--github-정리) |
-| Git 사용자 정보 / 기본 브랜치 설정 | 진행 필요 | [16. 남은 수동 작업](#16-남은-수동-작업) |
-| VSCode GitHub 로그인 증거 | 진행 필요 | [16. 남은 수동 작업](#16-남은-수동-작업) |
+| Git 사용자 정보 / 기본 브랜치 설정 | 완료 | [16-1. Git 사용자 정보 / 기본 브랜치 설정](##16-1. Git 사용자 정보 / 기본 브랜치 설정) |
+| VSCode GitHub 로그인 증거 | 완료 | [screenshot 폴더](./screenshot) |
 
 ## 4. 저장소 구조
 
@@ -572,8 +572,6 @@ user.name=chae5ni
 user.email=1aa2024@gmail.com
 init.defaultbranch=main
 ```
-
-### 16-2. VSCode GitHub 로그인 / 저장소 연동 스크린샷
 
 
 ## 17. 트러블슈팅
